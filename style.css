@@ -1,0 +1,46 @@
+p {
+  border: 1pxl;
+  color: black;
+}
+<style>
+
+h1 {
+  font-size: 22px;
+}
+h1 {
+  text-align: left;
+}
+p {
+  white-space:nowrap;
+}
+h2 {
+  text-decoration: underline;
+}
+h3 {
+  font-size: 19px;
+}
+h3 {
+  text-decoration: underline;
+}
+h4 {
+  font-size: 19px;
+}
+h4 {
+  text-decoration:underline;
+}
+h5 {
+  font-size: 19px;
+}
+h5 {
+  text-decoration: underline;
+}
+h6 {
+  font-size: 19px;
+}
+h6 {
+  text-decoration: underline;
+}
+p {
+  font-size: 16px;
+  font-family: Georgia: sans-serif;
+}
